@@ -1,0 +1,205 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.row{
+    background-color:  #fff;
+}
+
+.logo-section img{
+    width: 175px;
+    height: 35px;
+}
+
+.navbar ul li{
+    float: left;
+    display: inline-flex;
+    padding-right: 20px;
+    text-align: left;
+    color: #70A7D8;
+    text-decoration: none;
+    font-family: Georgia;
+
+    
+}
+
+.navbar ul li a:link{
+    text-decoration: none;
+    color: #70A7D8;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+.navbar ul li a:hover{
+    
+    color: #ffff;
+  }
+
+  .row:hover{
+    background-color: #70A7D8;
+    color: #ffff;
+  }
+
+  /* ///////////////////////////////////////////// se2ction ////////////////////// */
+
+  .section-2 img{
+    width: 100%;
+    height: 600px;
+    
+  }
+
+  /* ///////////////////////////////////////////// se3ction ////////////////////// */
+
+  .section-3{
+    padding: 20px;
+    background-color: #fff;
+  }
+
+  .row-2{
+    
+    float: left;
+    display: inline-flex;
+    text-align: left;
+    
+
+  }
+
+
+  .section-3 img{
+    width: 30%;
+    text-align: right;
+    margin-left: 35px;
+  }
+
+  .section-3 h2{
+    text-align: left;
+    color: #003F71;
+    margin-left: 0;
+    padding: 10px 10px 0 0;
+    font-size: 30px;
+    font-family: Georgia;
+  }
+
+  .section-3 p{
+    font-family: verdana;
+    text-align: left;
+    color: #003F71;
+    margin-left: 0;
+    padding: 5px 5px  10px 0;
+    margin-left: 35px;
+  }
+
+  /* ///////////////////////////////////////////// se4ction ////////////////////// */
+
+  .section-4{
+    background-color: #003F71;
+    overflow: hidden;
+    padding: 20px;
+    
+    
+}
+
+.records{
+    float: left;
+    color: #fff;
+    
+}
+
+.section-4 h2{
+    font-family: Georgia;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.section-4 p{
+    font-family: verdana;
+    font-size: 12px;
+}
+
+.aboutmessi{
+    float: right;
+    color: #fff;
+}
+
+.aboutmessi h2{
+    padding-top: 20px;
+    
+}
+
+.aboutmessi p{
+    word-spacing: 2px;
+}
+
+.aboutmessi a:last-child{
+    border-radius: 2px solid;
+    border-color: aliceblue;
+    text-decoration: none;
+    padding: 5px 5px;
+    background-color: #ce2b2b;
+    color: #fff;
+    float: right;
+    margin-top: -15px;
+    float: left;
+    margin-left: 180px;
+    
+}
+
+  /* ///////////////////////////////////////////// se5ction ////////////////////// */
+
+
+ 
+
+
+
+
+
+  .img-1 img{
+    width: 50%;
+    height: 400px;
+    margin: 0 0 10px -15px;
+    float: left;
+    
+  }
+
+  .img-2{
+    float: left;
+    width: 50%;
+    height: 400px;
+
+    
+  
+   
+
+   /* ///////////////////////////////////////////// se6ction ////////////////////// */
+
+   .section-6{
+    background-color: black;
+    position: relative;
+     
+    
+}
+
+
+.section-6 h2{
+    text-align: center;
+}
+  
+.row-6{
+    background-color: #ce2b2b;
+    margin: 20px;
+    padding: 50px;
+    margin-bottom: 20px;
+}
+
+.row-6 h2{
+    margin: 15px;
+    ;
+}
+
+
+.copyright{
+    margin-top: 20px;
+    background-color: #ce2b2b;
+}
